@@ -1,0 +1,6 @@
+c4 - registry
+-------------
+
+Requirements
+------------
+sqlite3 (>= 3.7.13)
